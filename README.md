@@ -1,7 +1,8 @@
-## Hi! I'm Lita 👋
+<h1 align="center"> Hi! I'm Lita 👋</h1>
+
 ![Majlista Aurellia Putri](img/Beige%20Pink%20Minimalist%20Personal%20LinkedIn%20Banner%20(4).png)
 
-*D3 Informatics Student passionate about web and software development.*
+<p align="center">D3 Informatics Student passionate about web and software development.</p>
 
 🔭 Working on: Web development projects
 🌱 Learning: PHP, Python, UI/UX & backend basics
@@ -21,7 +22,7 @@
 
 ---
 
-### Let's Connect 😋
+<h3 align="center"> Let's Connect 😋</3>
 
 <!--
 **Litaapw3ty/Litaapw3ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
