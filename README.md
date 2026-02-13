@@ -1,5 +1,6 @@
-## Hi there 👋
+## WELCOME 👋
 
+![Majlista Aurellia Putri](img/Beige%20Pink%20Minimalist%20Personal%20LinkedIn%20Banner%20(4).png)
 <!--
 **Litaapw3ty/Litaapw3ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![alt text](image.png) -->
