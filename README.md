@@ -21,11 +21,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-![Lita's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=litaapw3ty&show_icons=true&theme=tokyonight)
-
-
-
 ### Let's Connect 😋
 
 <!--
