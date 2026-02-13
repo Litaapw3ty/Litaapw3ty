@@ -11,7 +11,7 @@
 ---
 
 #### 💻 What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,bootstrap,mysql,figma,flutter,laravel&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,bootstrap,mysql,figma,flutter,laravel&perline)](https://skillicons.dev)
 
 ---
 
