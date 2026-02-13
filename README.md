@@ -1,4 +1,4 @@
-## WELCOME 👋
+## WELCOMEEE 👋
 
 ![Majlista Aurellia Putri](img/Beige%20Pink%20Minimalist%20Personal%20LinkedIn%20Banner%20(4).png)
 <!--
