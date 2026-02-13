@@ -1,6 +1,33 @@
-## WELCOMEEE 👋
-
+## Hi! I'm Lita 👋
 ![Majlista Aurellia Putri](img/Beige%20Pink%20Minimalist%20Personal%20LinkedIn%20Banner%20(4).png)
+
+*D3 Informatics Student passionate about web and software development.*
+
+🔭 Working on: Web development projects
+🌱 Learning: PHP, Python, UI/UX & backend basics
+👯 Open to collaborate on beginner web projects
+⚡ **Fun fact**: I enjoy turning ideas into small digital projects ><  
+
+---
+
+#### 💻 What I'm Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,bootstrap,mysql,figma,flutter,laravel&perline=4)](https://skillicons.dev)
+
+---
+
+#### 📫 Connect With Me
+![https://www.instagram.com/mjlstaa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
+
+#### 📊 GitHub Stats
+![Lita's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=litaapw3ty&show_icons=true&theme=tokyonight)
+
+
+
+### Let's Connect 😋
+
 <!--
 **Litaapw3ty/Litaapw3ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +44,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![alt text](image.png) -->
+
+
+
